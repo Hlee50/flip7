@@ -1,4 +1,6 @@
-# This project is a fully functional and interactive implementation of the card game Flip 7 in Javascript and HTML/CSS.
+# Flip 7
+
+This project is a fully functional and interactive implementation of the card game Flip 7 in Javascript and HTML/CSS.
 
 Similar to the physical card game, this digital version is local multiplayer only and supports up to 8 players.
 
