@@ -32,10 +32,6 @@ body {
   transition: transform 1s;
 }
 
-#title:hover {
-  transform: rotateY(360deg);
-}
-
 #start-screen {
     background: linear-gradient(to bottom right, cyan, blue, violet);
     display: flex;
@@ -376,7 +372,7 @@ button:hover {
 }
 
 #flip.flipped:hover {
-    /* Ovveride */
+    /* Overide */
 }
 
 #stay{
